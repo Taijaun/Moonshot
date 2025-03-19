@@ -22,7 +22,7 @@ Explore the history of humanity’s journey to the Moon with MoonShot – a simp
 	1.	Ensure you have Xcode installed on your Mac.<br>
 	2.	Clone this repository:
 
-git clone https://github.com/yourusername/MoonShot.git
+git clone https://github.com/Taijaun/MoonShot.git
 
 
 	3.	Open the project in Xcode.
